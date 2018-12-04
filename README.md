@@ -1,1 +1,1 @@
-# 2D-SnakeGame-using-OpenGL-C-
+# 2D-SnakeGame-using-OpenGL-C++
